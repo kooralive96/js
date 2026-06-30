@@ -1,0 +1,4 @@
+{
+  "domain": "https://siirr.tv",
+  "_note": "This is the CURRENT live Siir-TV domain. To move everyone: change 'domain' to the new URL, commit, then purge jsDelivr. The apps/launchers read only the 'domain' field."
+}
