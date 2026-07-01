@@ -1,5 +1,5 @@
 (function(){
-  var CANON='https://siirr.tv';                                          // fallback if pointer down
+  var CANON='https://sir-tv.me';                                          // fallback if pointer down
   var DEST='/';                                                          // where to land (or '/install-sir-tv/')
   var POINTER='https://cdn.jsdelivr.net/gh/kooralive96/js@main/live.json';
   var mode=(document.currentScript&&document.currentScript.dataset.mode)||'';
